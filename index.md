@@ -1,3 +1,5 @@
+## Bytes
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -7,8 +9,9 @@
   {% endfor %}
 </ul>
 
+## Bits
 <ul>
-  {% for post in site.bytes %}
+  {% for post in site.bits %}
     <li>
       {{ post.date | date_to_string }}
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

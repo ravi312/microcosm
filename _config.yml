@@ -4,6 +4,6 @@ description: ideas | inspiration | insights
 logo: stego.png
 
 collections:
-  bytes:
+  bits:
     output: true
     sort_by: date
