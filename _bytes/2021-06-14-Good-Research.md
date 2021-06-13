@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Good Research"
 author: ravi312
 tags: [research, education, thinking, methods]
