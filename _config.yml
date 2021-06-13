@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: microcosm
 description: ideas | inspiration | insights
 logo: stego.png
+
+collections:
+  bytes:
+    output: true
+    sort_by: date
