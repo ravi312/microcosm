@@ -6,4 +6,3 @@ logo: stego.png
 collections:
   bits:
     output: true
-    sort_by: date
